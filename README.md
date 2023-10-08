@@ -2,6 +2,7 @@
 
 Hola, a continuacion copio y pego texto de una pagina de github
 
+SYNC TEST
 
 
 We now allow defining selected tag patterns for securing your deployments that can run against Actions environments.
