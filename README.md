@@ -11,6 +11,8 @@ Hola, a continuacion copio y pego texto de una pagina de github
 
 SYNC TEST
 
+tercero edit
+
 Antigua imagen del Cocotron 14:
 
 #### Cocotron 14
