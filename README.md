@@ -4,5 +4,6 @@ Hola, a continuacion copio y pego texto de una pagina de github
 
 SYNC TEST
 
+Antigua imagen del Cocotron 14:
 
-![plot](/Imagenes/cartel_cocotron_old.jpg)
+![Cocotron 14](/Imagenes/cartel_cocotron_old.jpg "Logo del cocotron 14")
